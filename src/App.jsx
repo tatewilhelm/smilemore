@@ -321,6 +321,16 @@ function App() {
                     </button>
                 </section>
             </main>
+
+            <footer className="site-footer">
+                <p>
+                    Made by{' '}
+                    <a href="https://tatewilhelm.com" target="_blank" rel="noopener noreferrer">
+                        tatewilhelm
+                    </a>
+                    {' '}&middot; <a href="mailto:t8wilhelm@gmail.com">t8wilhelm@gmail.com</a>
+                </p>
+            </footer>
         </div>
     );
 }
